@@ -93,6 +93,4 @@ describe('fillTank', () => {
 
     expect(customer.vehicle.fuelRemains).toBe(20.9);
   });
-
-  // write tests here
 });
